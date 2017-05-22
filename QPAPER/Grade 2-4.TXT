@@ -1,0 +1,48 @@
+
+
+				GOVERNMENT OF INDIA
+			    MINISTRY OF COMMUNICATIONS
+			     MONITORING ORGANISATION
+				* * * * * * * *
+
+	GRADE - II QUESTION PAPER		TIME ALLOWED ONE HOUR
+	RESTRICTED : NOV 12, 1990		MAXIMUM MARKS 100
+
+		Answer any 3 questions from each section.
+
+	SECTION A =====================================================
+
+	Q No 1. State Ohm's Law. What is the effective value of
+		capacitance of two capacitors of 10 pf. connected in
+		parallel.
+	      	What is the color code of a resistance of 20 k ohms
+		10% tolerance.
+
+	2. Draw the block diagram of a Communication Receiver. what is
+	   the necessity of a BFO.
+
+	3. What do you know about skip distance and fading
+	   What is the difference in mode of propagation between HF
+	   and VHF
+
+	4. Draw the block diagram of a low power transmitter for
+	   transmitting speech.
+
+	5. Describe the aerial you are going to use for transmitting
+	   on 2 metres and 7 Mhz.
+
+
+	SECTION B =====================================================
+
+
+	1. Draw the specimen form of Log you are supposed to maintain
+
+	2. (i) Expand the following: QRM? QRU QTC2 VA AR
+	   (ii) Write the phonetics of -K X Y M 2 6.
+
+	3. What are the documents to be kept in a Amateur Station
+
+	4. Write briefly (i) Precautions against interference
+	   (ii) Secrecy of correspondence (iii) Call and reply
+	   procedure.
+

@@ -1,0 +1,54 @@
+                                 GOVERNMENT OF INDIA
+		            MINISTRY OF COMMUNICATIONS
+		             MONITORING ORGANISATION
+		                * * * * * * * *
+
+	GRADE - II QUESTION PAPER               TIME ALLOWED ONE HOUR
+	RESTRICTED : DEC 26, 1990               MAXIMUM MARKS 100
+
+		Answer any 3 questions from each section.
+
+		                SECTION 'A'
+
+	1. What is the difference between a full wave and half wave
+	   rectifier ? Draw a diagram of either of them.
+
+	2. (a) Define Ohm's law (b) Explain the color code for
+	   resistance. How will a resistance of 46,000 Ohms 5% tolerance
+	   color coded ?
+
+	3. (a) Explain briefly SSB transmission & its advantages over
+	   DSB. (b) An Ideal transformer has a primary turns of 4000 and
+	   800. When primary voltage is 230 Volts, What is the Secondary
+	   voltage ?
+
+	4. (a) What do you understand by Selectivity, Selectivity and
+	   Fidelity as applied to a communication receiver ?
+
+	5. Draw a block diagram of your intended transmitter and explain
+	   briefly the function of each stage.
+
+		                SECTION 'B'
+
+	1. Answer any FOUR:-
+
+	   (a) Define amateur station.
+	   (b) What is the frequency band for restricted amateur service
+	   (c) What is the Q code for "who is calling me ?"
+	   (d) What is the emission code for amplitude modulated
+	       radio-telephony ?
+	   (e) What are phonetics for JA5CQS
+
+	2. Explain the procedure by which an amateur station establishes
+	   contact with another amateur station on R/T ?
+
+	3. What are the different columns of the log book maintained by
+	   an amateur ? why is it necessary to maintain a log ?
+
+	4. (a) What types of messages can be exchanged among amateur
+	   stations ?
+	   (b) What precautions would you take for making test signals ?
+
+	5  (a) What is secrecy of correspondence ?
+	   (b) How a duplicate of an amateur license is obtained ?
+

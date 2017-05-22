@@ -1,0 +1,58 @@
+
+				GOVERNMENT OF INDIA
+			   MINISTRY OF COMMUNICATIONS
+			     MONITORING ORGANISATION
+                                * * * * * * * *
+      GRADE - II QUESTION PAPER                   TIME ALLOWED 0NE HOUR
+                                                  MAXIMUM MARKS 100
+
+	     	    Answer any 3 questions from each section.
+
+	SECTION A =====================================================
+
+	Q.No 1. Answer in brief any two :-
+	(a) What is the difference between VFO and BFO
+	(b) What are the advantages and disadvantages of FM over AM 
+		transmission	
+	(c) What is the difference between intermediate and image 
+		frequency
+	Q.No.2 
+	(a) What is the peak value of mains voltage of 220 V AC 
+	(b) Define Ohms law ?
+	(c) What do you mean by the directivity of an antenna
+
+	Q.No.3 
+	(a) What is the time constant of 2 uF capacitor and 
+		250 K Ohm resistor ?
+	(b) Define standing wave ratio.	
+
+     	Q.No.4 Write short notes on any three :-  (a) Skip zone 
+		(b) Squelch control (c) Zener diode (d) Loudspeaker
+
+	Q.No.5 Draw the block diagram of a transmitter and explain
+		briefly the function of each stage.
+
+	SECTION B =====================================================
+
+	Q.No 1. Write short notes on any three :- 
+		(a) Secrecy of correspondence (b) test signals 
+		(c) QSL cards (d) General call to all stations (F3E).
+ 
+	Q.No.2. 
+	(a) What types of messages can be exchanged among amatuer stations
+	(b) What precautions are taken to avoid interference.
+
+	Q.No.3.
+	(a) State the frequencies, band and power autorised to restriced
+	amatuers ? (b) What documents are to be kept in an amatuer station
+
+	Q.No.4.
+	(a) How is a duplicate copy of the amatuer license obtained ?
+	(b) What are the penalties of voilation of Indian Wireless 
+	telegraph (amateur service) Rules 1978.
+
+	Q.No.5. 
+	Draw the specimen form of the Equipment register with two entries
+					OR
+	Describe six important conditions under which the amateur station
+	equipment is to be kept.

@@ -1,0 +1,63 @@
+			         GOVERNMENT OF INDIA
+			     MINISTRY OF COMMUNICATIONS
+			      MONITORING ORGANISATION
+			         * * * * * * * *
+
+	GRADE - II QUESTION PAPER               TIME ALLOWED ONE HOUR
+	RESTRICTED : DEC 10, 1990               MAXIMUM MARKS 100
+
+		 Answer any 3 questions from each section.
+
+			         SECTION 'A'
+
+	1. Answer any five :-
+	   (a) Draw the symbol of a PNP and NPN transistor
+	   (b) What is the formula for determining the frequency in a
+		resonant circuit ?
+	   (c) What is the value of a resistor having red red orange
+		color combination.
+	   (d) What is the total capacitance of 3,4, and 5 ÊF capacitors
+		in parallel.
+	   (e) What is the wavelength of a frequency of 150 MHz ?
+	   (f) Define selectivity of a receiver.
+
+	2. Draw the block diagram of a Superhet Receiver. Explain
+	   briefly the functions of each stage.
+
+	3. What are the advantages and disadvantages of FM over AM
+
+	4. Write short notes on any three :-
+	   (a) Crystal oscillator (b) Microphone (c) signal to noise
+	   ratio (d) AVC (e) Ground plane antenna.
+
+	5. (a) Describe a dipole antenna
+	   (b) What are the functions of a filter circuit and a zener
+		diode in a rectifier circuit.
+
+			         SECTION 'B'
+
+	1. Answer any five:-
+	   (a) What is the meaning of F3E emission ?
+	   (b) What is meant by UR RST 599 ?
+	   (c) At what intervals should a transmitting station identify
+		 itself ?
+	   (d) What is the retention period of a amateur logbook ?
+	   (e) What is meant by CQ DX ?
+	   (f) What are the phonetics for VU3ABC
+
+	2. What are frequency bands, emission and power authorized to
+	   restricted grade amateurs.
+
+	3. (a) How to general call to all amateurs in radio telephony ?
+	   (b) What is secrecy of correspondence ?
+
+	4. (a) What types of messages are permitted between amateur
+		stations ?
+	   (b) What are test signals ? What is the procedure for the
+		transmission of test signals ?
+	5. Write short notes on any three :-
+	   (a) Amateur station
+	   (b) Penalties for breach of amateur service rules.
+	   (c) Harmful interference
+	   (d) Equipment register
+

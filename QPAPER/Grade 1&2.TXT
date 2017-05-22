@@ -1,0 +1,134 @@
+
+
+			 GOVERNMENT OF INDIA
+		      MINISTRY OF COMMUNICATIONS
+			MONITORING ORGANIZATION
+			    * * * * * * * *
+
+	NOTE: Question No 1 from each section is compulsory.
+	Grade I	answer any 5 of the remaining questions - 2 Hours
+	Grade II answer any 2 of the remaining questions - 1 Hour
+
+	SECTION A
+
+	Q.1.	Choose the correct answer ( any 10 )
+
+	i)	A3E indicates a) SSB b) AM-DSB voice c) FM Voice d) FSK
+
+	ii)	Capacitance is measured in
+		a) Amperes b) watt c) Farad d) Coulombs
+
+	iii)	Frequency is a) cycles per second b) Kilo cycles
+		per second c) Cycles per minute d) cycles per hour
+
+	iv)	Line of sight propagation is the mode of communication
+		in a) LF b) HF c) MF d) VHF
+
+	v)	The wavelength of 300 MHz is in Meters is
+		a) 1 b) .1 c) 1.1 d) 0.01
+
+	vi)	4th harmonic of 2.5 MHz is
+		a) 10 MHz b) 15 MHz c) 8 MHz d) 7.5 MHz
+
+	vii)	Squelch control is used to eliminate
+		a) static interference b) electrical disturbance
+		c) receiver noise d) unwanted carrier
+
+	viii)	Resonant frequency in a tuned circuit is equal to
+		a) 1/2„LC b) 1/2„˚LC c) 2„˚LC d) 2„˚L+C
+
+	ix)	Power dissipated in a 400 Ohm resistor at 1 Amp is
+		a) 40 Watts b) 400 KW c) 4 Watts d) 400 Watts
+
+	x)	The frequency of 40 Meter band in MHz is
+		a) 14 - 14.350	b) 7 - 7.1 c) 21 - 21.450 d) 15 - 15.400
+
+	xi)	Zener diode is used for a) Rectification b) Voltage
+		regulation c) Current regulation d) Switching
+
+	xii)	The UHF range is a) 30 to 300 KHz b) 300 to 3000 KHz
+		c) 3 to 30 GHz d) 300 to 3000 MHz
+
+	Q.2	Write short notes on any three	a) Skip distance
+		b) AVC c) eddy currents d) Antenna matching
+
+	Q.3	Draw the circuit of a full wave bridge rectifier with
+		and smoothing circuit and explain its function.
+
+	Q.4	a) Explain briefly FM and its advantages over AM
+		b) Explain briefly dipole aerial
+
+	Q.5	Draw the block diagram of a superhetrodyne receiver
+		and explain the function of each stage briefly.
+
+	Q.6	Explain briefly primary cell and secondary cell and
+		how do they differ ?
+
+	Q.7	State the color code of resistors
+
+	SECTION B
+
+	Q.1.	Choose the correct answer ( any 10 )
+
+	i)	Indian amateurs can communicate with other amateurs in
+		a) All countries b) Countries permitted by ITU
+		c) Countries permitted by Indian Government
+		d) Countries permitted by Indian Amateur society
+
+	ii)	Grade II amateurs can communicate on 7 MHz in
+		a) A1 b) A3 c) F3 d) A3A
+
+	iii)	Lady amateurs are known as a) XL b) XYL c) YL d) LY
+
+	iv)	Minimum age to become an amateur is
+		a) 18 years b) 14 years c) 12 years d) 16 years
+
+	v)	All timing in the Log book should be in
+		a) IST b) UTC c) GMT d) Local time
+
+	vi)	Amateurs should preserve their log for a period of
+		a) 6 months b) 1 year c) 2 years d) 9 months from the
+		date of the last entry
+
+	vii)	Q code to indicate time is a) QRG b) QRX c) QTR d) QSA
+
+	viii)	Test signal shall not be continued more than
+		a) 30 seconds b) 1 minute c) 2 minutes d) 3 minutes
+
+	ix)	In India the standard time signal is broadcast by
+		a) ISRO b) WPC c) OCS d) NPL
+
+	x)	PANPAN transmitted thrice indicates a) Distress
+		b) Emergency c) Urgency d) Distress and emergency
+
+	xi)	The broadcast of music is allowed in amateur service
+		a) on request b) when channel is free c) never
+		d) only for testing
+				 __
+	xii)	The abbreviation VA means a) End of transmission
+		b) End of message c) End of working d) End of schedule
+
+
+	Q.2	State the conditions under which an amateur station
+		can transmit third party messages ?
+
+	Q.3	Write the meaning of four of the following i) QRA
+		ii) QRL iii) QRX 1600	iv) QRM v) QSY
+
+	Q.4	What are the international distress frequencies and
+		write a specimen form of a distress message in A3.
+
+	Q.5a.	Explain the need for a callsign ? How are the callsigns
+		for amateurs in India formed ?
+	  5b.	Who allots callsigns for amateurs in India ?
+
+	Q.6	On May 27 1986 Tuesday presume you had a contact
+		Sri Vidyaprakash of Coimbatore on 14025 KHz signing
+		VU2DVP at 2130 IST with good signal strength, tone and
+		readability. Convey your particulars to him before
+		closing down. Show the above contact in proper log form.
+
+	Q.7	What types of messages are the amateurs forbidden to
+		transmit ?
+
+

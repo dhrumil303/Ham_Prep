@@ -1,0 +1,134 @@
+
+
+
+				 GOVERNMENT OF INDIA
+			     MINISTRY OF COMMUNICATIONS
+				MONITORING ORGANISATION
+				   * * * * * * * *
+	GRADE - II QUESTION PAPER
+	TIME ALLOWED 0NE HOUR			     MAXIMUM MARKS 100
+
+	NOTE: Question No 1 from each section is compulsory. Answer any
+	two questions from each section in addition to compulsory
+	question No 1
+
+	SECTION A
+
+	Q.1. Choose the correct answer, Any ten. ( compulsory )
+	i) Plate current in a diode flows only when the plate is
+	a) Negative with respect to cathode  b) positive with respect to
+	cathode  c) when plate is at a lower voltage than cathode
+	d) both at same potential
+
+	ii) Zener Diodes are used for a) Rectification  b) Detection
+	c) voltage regulation d) none of these
+
+	iii) 3 resistors of 2,3 & 4 ohms are connected in series. The
+	voltage across the circuit is 9 V , the current drawn by 3 ohms
+	resistor is  a) 1.5 Amps b) 27 Amps c) 1 Amp d) 3 Amps
+
+	iv) A superhetrodyne receiver is tuned to 555 KHz and its local
+	oscillator at 1010 KHz . The image frequency will be a) 1565 KHz
+	b) 455 KHz c) 1465 KHz d) none of these
+
+	v) 3 to 30 MHz band is known as   a) MF b) LF c) VHF d) HF
+
+	vi) The wavelength of a broadcast station at 1000 KHz is
+	a) 30 Meters b) 300 Meters c) 0.3 Meteors d) none of these
+
+	vii) The core of power supply transformer is laminated to
+	a) decrease impedance b) increase impedance c) decrease eddy
+	current losses d) none of these
+
+	viii) In a resonant circuit
+	a) Xl = Xc b) Xl > Xc c) Xl < Xc d) none of these
+
+	ix) When frequency of a carrier is varied according to modulation
+	the result is   a) frequency modulation  b) amplitude modulation
+	c) product detection d) none of these
+
+	x) The phase relationship between the input and output of a common
+	emmitter circuit in degrees is   a) 90 b) 180 c) 270 d) 0
+
+	xi) The quartz crystal oscillator is known for its
+	a) linearity b) stability c) high output d) flexibility
+
+	xii) The effect of interelectrode capacitance of a triode is more
+	predominant at  a) HF b) VHF c) LF d) none of these
+
+	Q.2 Draw the block diagram of a superhetrodyne receiver and
+	explain briefly the function of each stage.
+
+	Q.3 Draw the circuit of a full wave rectifier and explain
+	briefly its working.
+
+	Q.4 Write short notes on any three of the following
+	a) demodulation b) AVC c) Microphones d) Harmonic generators
+
+	Q.5 a) What are the colour codes for 100 Ohms, 470 KOhms
+	and 4.7 MOhms  with 5% tolerance
+
+	b) Is it possible to use a Ground plane antenna on HF
+	communication. Justify your answer.
+
+	SECTION B
+
+	Q 1. Choose the correct answer, Any ten. ( compulsory )
+
+	i) Swl's are permitted to transmit in the frequency band of
+	a) 7-7.1 MHz b) 3.89-3.9 MHz c) 144-146 MHz d) none of these
+
+	ii) The amateur license is renewed by a) P & T  b) Ministry of
+	communication c) monitoring stations d) none of these
+
+	iii) A3E emission is    a) DSB b) SSB  c) CW  d) FSK
+
+	iv) Q code to indicate the location of a station is
+	a) QTL b) QTH c) QTN d) None of these
+
+	v) Amateur station on a ship can contact another amateur on
+	land on a frequency authorized to a) the ship b) amateur
+	stations c) by the ministry of communication d) ships calling
+	frequency
+
+	vi) SOS transmitted three times indicates
+	a) urgency b) distress c) safety d) none of these
+
+	vii) All timings in logbook should be in   a) IST b) GMT c) UTC
+
+	viii) Amateurs are required to preserve their log for a period
+	of ---- from the date of last entry a) 1 year b) 2 year
+	c) 6 months d) permanently
+
+	ix) The callsign VU2VX is authorized to a) Gr I amateur b) Gr II
+	amateur c) Advanced amateur d) not authorized
+
+	x) Amateurs are forbidden to transmit about
+	a) Equipments b) weather c) Antennas d) Third party messages
+
+	xi) Standard time and frequency is transmitted on
+	a) 7050 KHz b) 14050 KHz c) 21050 KHz d) 15000 Khz
+
+	xii) Test signals are not to be transmitted for more than
+	a) 10 minutes b) 5 minutes c) 1 minute  d) none of these
+
+	Q.2 What are the frequency bands, power and emissions
+	permitted to Gr II amateurs
+
+	Q.3a Give 'Q' codes for the following expressions. answer any
+	four i) Your frequency varies ii) what is the name of the
+	station ? iii) please change frequency to 14050 KHz iv) who
+	is calling me ? v) please increase power
+
+	3b Give the meaning of any four
+	i) QRS ? ii) QRX 2000 iii) RST 599 iv) QRG 7051 KHz v) DE
+
+	Q.4 Write short notes on any three a) Test signals b) secrecy
+	of correspondence c) Amateur service d) Amateur Log Book
+
+	Q.5a What do you understand by the term 'inspection ?
+	5b What is the license fee for grade II and restricted amateurs ?
+	What is the surcharge for late renewal ?
+	5c Explain the procedure to obtain a duplicate license and who
+	issues a duplicate license ?
+

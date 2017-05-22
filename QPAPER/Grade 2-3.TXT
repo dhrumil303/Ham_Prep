@@ -1,0 +1,55 @@
+
+
+				GOVERNMENT OF INDIA
+			    MINISTRY OF COMMUNICATIONS
+			      MONITORING ORGANISATION
+				   * * * * * * * *
+
+	GRADE - II RESTRICTED		   TIME ALLOWED 0NE HOUR
+	MAXIMUM MARKS 100
+
+	Solve any three from each section ...
+
+	SECTION A
+
+	Q.No 1. Draw the block diagram of a superhet communication
+	receiver and explain briefly the function of each stage.
+
+	Q.No.2. Write short notes on any three :-  (a) G.P Antenna
+	(b) FM (c) Capacitor microphone (d) skip distance
+
+	Q.No.3. (a) Define Ohms law. (b) What series dropping resistor
+	is required if five 6.3 V and five 12.6 V filaments are
+	connected to 110 V and draw a current of 205 mA ?
+
+	Q.No.4.(a) What is the value of the resistor with the following
+	colors (i) Black red white gold (ii) red green yellow silver
+	(iii) orange brown red gold
+	(b) What is a crystal oscillator and why is it preferred to a LC
+	oscillator ?
+
+	Q.No.5. Draw the schematic diagram of a full wave rectifier
+	with smoothing circuits and explain how it works.
+
+	SECTION B
+
+	Q.No 1. (a) Write the meaning of any FOUR of the following :-
+	(i) DE (ii) QRL IMI (iii) QRM 4 (iv) QRX 1600 (v) QSY 7020
+	(b) Give the Q code or abbreviation used for the following
+	expressions:- ANY FOUR (i) send slow (ii) what is your location
+	(iii) received correctly (iv) weather (v) calling any station
+
+	Q.No.2. What is the importance of a callsign ? How callsigns of
+	Indian amateurs are formed.
+
+	Q.No.3. (a) What types of messages are permitted to be passed
+	by Amateurs ? (b) State the procedure to make a general call
+	to all stations in radio telephony.
+
+	Q.No.4. Write short notes on any four of the following :-
+	(a) QSL cards (b) Distress (c) test signals (d) Secrecy of
+	correspondence (e) Amateur service (f) categories of license
+
+	Q.No.5. State the frequency, power and emissions authorized to
+	restricted grade amateurs ?
+
